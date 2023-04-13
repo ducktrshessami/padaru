@@ -1,0 +1,14 @@
+{
+    "ModDefinition": {
+        "name": "padaru",
+        "description": "HASHIRE SORI YO,\nKAZE NO YOU NI,\nTSUKIMIHARA WO,\nPADORU PADORU",
+        "author": "ducktrshessami",
+        "system_version": 2,
+        "changelog": "Initial release"
+    },
+    "ModReplacements": {
+        "textures": [
+            "units/aru_00_00"
+        ]
+    }
+}
