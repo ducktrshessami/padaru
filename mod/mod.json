@@ -38,6 +38,10 @@
                 "path": "units/aru_00_05",
                 "face_x": 112,
                 "face_y": 177
+            },
+            {
+                "path": "cards/aru",
+                "custom_name": "Padoru"
             }
         ]
     }
