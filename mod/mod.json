@@ -9,7 +9,36 @@
     },
     "ModReplacements": {
         "textures": [
-            "units/aru_00"
+            {
+                "path": "units/aru_00_00",
+                "face_x": 112,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_00_01",
+                "face_x": 112,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_00_02",
+                "face_x": 112,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_00_03",
+                "face_x": 132,
+                "face_y": 173
+            },
+            {
+                "path": "units/aru_00_04",
+                "face_x": 129,
+                "face_y": 151
+            },
+            {
+                "path": "units/aru_00_05",
+                "face_x": 112,
+                "face_y": 177
+            }
         ]
     }
 }
