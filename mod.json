@@ -8,7 +8,12 @@
     },
     "ModReplacements": {
         "textures": [
-            "units/aru_00_00"
+            "units/aru_00_00",
+            "units/aru_00_01",
+            "units/aru_00_02",
+            "units/aru_00_03",
+            "units/aru_00_04",
+            "units/aru_00_05"
         ]
     }
 }
