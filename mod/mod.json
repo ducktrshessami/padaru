@@ -42,6 +42,10 @@
             {
                 "path": "cards/aru",
                 "custom_name": "Padoru"
+            },
+            {
+                "path": "cards/present",
+                "custom_flavor": "Sorry for the wait, merry~! —Padoru"
             }
         ]
     }
