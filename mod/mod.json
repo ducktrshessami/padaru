@@ -45,7 +45,8 @@
             },
             {
                 "path": "cards/present",
-                "custom_flavor": "Sorry for the wait, merry~! —Padoru"
+                "custom_name": "Jingle Bells",
+                "custom_flavor": "Sorry for the wait, merry! —Padoru"
             }
         ]
     }
