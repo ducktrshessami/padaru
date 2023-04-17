@@ -10,6 +10,15 @@
     "ModReplacements": {
         "textures": [
             {
+                "path": "cards/aru",
+                "custom_name": "Padoru"
+            },
+            {
+                "path": "cards/present",
+                "custom_name": "Jingle Bells",
+                "custom_flavor": "Sorry for the wait, merry! —Padoru"
+            },
+            {
                 "path": "units/aru_00_00",
                 "face_x": 112,
                 "face_y": 180
@@ -39,15 +48,7 @@
                 "face_x": 111,
                 "face_y": 179
             },
-            {
-                "path": "cards/aru",
-                "custom_name": "Padoru"
-            },
-            {
-                "path": "cards/present",
-                "custom_name": "Jingle Bells",
-                "custom_flavor": "Sorry for the wait, merry! —Padoru"
-            }
+            "hairs/aru_00"
         ]
     }
 }
