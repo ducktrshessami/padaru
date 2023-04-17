@@ -78,6 +78,36 @@
                 "face_x": 111,
                 "face_y": 179
             },
+            {
+                "path": "units/aru_02_00",
+                "face_x": 112,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_02_01",
+                "face_x": 110,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_02_02",
+                "face_x": 112,
+                "face_y": 180
+            },
+            {
+                "path": "units/aru_02_03",
+                "face_x": 131,
+                "face_y": 179
+            },
+            {
+                "path": "units/aru_02_04",
+                "face_x": 129,
+                "face_y": 160
+            },
+            {
+                "path": "units/aru_02_05",
+                "face_x": 111,
+                "face_y": 179
+            },
             "hairs/aru_00"
         ]
     }
